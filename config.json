@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorconnect",
+        "uuid": 29673045,
+        "checksum": "072opv"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
